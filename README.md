@@ -183,3 +183,4 @@ See the chart at the top of this README.
 
 - This repository does **not** claim ownership of the original Claude Code source material.
 - This repository is **not affiliated with, endorsed by, or maintained by Anthropic**.
+- The claw code generally delievers all the neccessary elements what a perfect ai requires 
